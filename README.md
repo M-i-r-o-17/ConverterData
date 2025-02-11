@@ -28,7 +28,8 @@
 Данная программа не удаляет старые данные, а наоборот записывает их в новом формате в новые файлы.
 
 ## Программы:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-i-r-o-17&repo=ConverterData)](https://github.com/M-i-r-o-17/ConverterData)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-i-r-o-17&repo=survey)](https://github.com/M-i-r-o-17/survey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M-i-r-o-17&repo=ReviewsInTheDiningRoom)](https://github.com/M-i-r-o-17/ReviewsInTheDiningRoom)
+
 
 
